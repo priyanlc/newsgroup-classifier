@@ -104,6 +104,7 @@ python inference.py --demo-only
 
 ## Project Structure
 
+
 ```
 output/code/
 ├── README.md              # This file
